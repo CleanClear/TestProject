@@ -1,0 +1,9 @@
+﻿  main.cpp
+f:\cpp\projects\cppconsolesolution\20180127_cardgame\main.cpp(11): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\cpp\projects\cppconsolesolution\20180127_cardgame\main.cpp(39): warning C4302: '형식 캐스팅': 'const char *'에서 'char'(으)로 잘립니다.
+f:\cpp\projects\cppconsolesolution\20180127_cardgame\main.cpp(64): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: '_sleep' 선언을 참조하십시오.
+f:\cpp\projects\cppconsolesolution\20180127_cardgame\main.cpp(79): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: '_sleep' 선언을 참조하십시오.
+  20180127_CardGame.vcxproj -> F:\CPP\Projects\CPPConsoleSolution\Debug\20180127_CardGame.exe
+  20180127_CardGame.vcxproj -> F:\CPP\Projects\CPPConsoleSolution\Debug\20180127_CardGame.pdb (Full PDB)
